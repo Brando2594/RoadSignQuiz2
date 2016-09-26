@@ -1,3 +1,5 @@
+// SettingsActivityFragment.java
+// Subclass of PreferenceFragment for managing app settings
 package com.bgray.roadsignquiz;
 
 import android.os.Bundle;

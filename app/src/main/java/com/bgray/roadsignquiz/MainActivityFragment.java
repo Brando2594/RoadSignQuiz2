@@ -1,5 +1,5 @@
-
-
+// MainActivityFragment.java
+// Contains the Road Sign Quiz logic
 package com.bgray.roadsignquiz;
 
 import java.io.IOException;

@@ -1,3 +1,5 @@
+// SettingsActivity.java
+// Activity to display SettingsActivityFragment on a phone
 package com.bgray.roadsignquiz;
 
 import android.os.Bundle;

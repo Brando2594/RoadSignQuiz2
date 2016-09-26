@@ -157,6 +157,6 @@
       android:id="@+id/answerTextView"
       android:layout_gravity="bottom|center_horizontal"
       android:gravity="center_horizontal"
-      android:textSize="@dimen/answer_size"
+      android:textSize="@dimen/ans_size"
       android:textStyle="bold"/>
 </LinearLayout>

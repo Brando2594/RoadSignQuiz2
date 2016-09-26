@@ -4,7 +4,7 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
     defaultConfig {
-        applicationId "csc210bgray.roadsignquiz"
+        applicationId 'com.bgray.roadsignquiz'
         minSdkVersion 23
         targetSdkVersion 24
         versionCode 1
